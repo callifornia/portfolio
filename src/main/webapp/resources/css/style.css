@@ -1,0 +1,189 @@
+.header-backround{
+    background-color: #d3d2d2;
+}
+.page-title-margin{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	
+}
+.menu li a{
+    font-size: 18px;
+    color: rgb(153, 153, 153);
+    letter-spacing: 6px;
+    background-color: #d3d2d2;
+    opacity: 0.8;
+    text-align: center;
+}
+.about{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.skills{
+    margin-top: 42px;
+    margin-bottom: 35px;
+}
+.img-me{
+margin-left: 44px;
+}
+.img-project{
+    float: left;
+}
+.skill-title{
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(119, 119, 119);
+    margin-top: 30px;
+}
+.skill-description{
+margin-left: 25px;
+  font-size: 16px;
+  color: rgb(86, 86, 86);
+}
+.pr{
+    float: left;
+}
+.img-container{
+    margin: auto;
+}
+
+.img-project:hover{
+    margin-top: 2px;
+}
+.third-line-title-text{
+	color: #353535;
+	font-size: 24px;
+}
+.img-project-big{
+    border: 1px solid silver;
+}
+.third-line-title-text-2{
+	color: #353535;
+	font-size: 24px;
+	margin-top: 20px;
+}
+.contact-container{
+    background-image: url(/portfolio/resources/img/bg.png);
+    background-repeat: repeat;
+      margin-top: 100px;
+      padding-bottom: 35px;
+}
+.contact-title-main{
+  font-size: 15px;
+  color: rgb(217, 218, 215);
+  letter-spacing: 4px;
+  font-weight: bold;
+}
+.contact-title-main-second{
+  color: rgb(115, 115, 115);
+  font-size: 17px;
+  text-decoration: underline;
+  margin-top: -12px;
+
+}
+.contact-line-title{
+margin: auto;
+  border-bottom: 3px solid rgb(89, 88, 88);
+  width: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.contact-blockquote{
+    font: 400 italic 28px/1.348 "freight-text-pro",serif;
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 0;
+    font-size: 46px;
+    color: silver;
+    margin-bottom: 50px;
+}
+.contact-title2{
+    font-size: 90px;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+.contact-title{
+  font-size: 77px;
+  margin-top: 70px;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 14px;
+  line-height: 79px;
+  font-weight: bold;
+  margin-bottom: 41px;
+}
+.third-line-title-text-description{
+    color: #717070;
+	font-size: 16px;
+	line-height: 1.0;
+	margin-left: 15px;
+}
+.project-description-title-text{
+    font-size: 16px;
+    color: rgb(79, 79, 79);
+    margin-top: 135px;
+    letter-spacing: 10px;
+}
+.project-description-title-line1{
+    border-bottom: 1px solid silver;
+    margin: auto;
+    width: 300px;
+    margin-bottom: 70px;
+}
+.project-description-title-line{
+    border-bottom: 1px solid silver;
+    margin: auto;
+    width: 450px;
+    margin-bottom: 70px;
+}
+.second-title-name{
+	margin-bottom: 25px;
+	color: rgb(132, 132, 132);
+}
+.title-second-text{
+	font-size: 16px;
+	color: rgb(49, 49, 49);;
+	text-align: center;
+	
+}
+.skills-padding{
+      padding-bottom: 50px;
+}
+.skills-container{
+      background-color: rgb(245, 245, 245);
+}
+.title-text{
+  text-transform: uppercase;
+  text-align: center;
+}
+.project-title-text{
+      font-size: 18px;
+  color: rgb(95, 95, 95);
+  margin-top: 40px;
+}
+.title-text-line{
+    border-bottom: 4px solid silver;
+    width: 47px;
+    margin: auto;
+}
+.title-text-line-skills{
+    border-bottom: 4px solid silver;
+    width: 27px;
+    margin: auto;
+}
+.description-block{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.blockquote{
+font: 400 italic 28px/1.348 "freight-text-pro",serif;
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 0;
+    font-size: 46px;
+}
+.description-block-text{
+    font-size: 15px;
+  letter-spacing: 2px;
+  color: rgb(102, 102, 102);
+}
