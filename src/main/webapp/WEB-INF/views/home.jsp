@@ -93,6 +93,9 @@
                         <p class = "skill-description">My SQL</p>
                     </div>
                 </div>
+				<div class = "col-md-3 col-md-offset-5 button-view">
+						<a href= "<c:url value='/resources/img/cv.pdf' />" target="_blank" class = "btn  btn-info btn-view-my">View CV</a>
+						</div>
                 </div>
             </div>
       

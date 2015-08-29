@@ -6,6 +6,14 @@
 	margin-bottom: 50px;
 	
 }
+.btn-view-my{
+	border-radius:0px !important;
+	    letter-spacing: 4px;	
+}
+.button-view{
+	    margin-left: 512px;
+    margin-bottom: 50px;
+}
 .menu li a{
     font-size: 18px;
     color: rgb(153, 153, 153);
@@ -62,7 +70,7 @@ margin-left: 25px;
 	margin-top: 20px;
 }
 .contact-container{
-    background-image: url(/portfolio/resources/img/bg.png);
+    background-image: url(../img/bg.png);
     background-repeat: repeat;
       margin-top: 100px;
       padding-bottom: 35px;
